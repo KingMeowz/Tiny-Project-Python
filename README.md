@@ -1,6 +1,6 @@
 # Small Project Python 
 
-This repository would be dedicated to some project small for my Hobbies in programming
+This repository would be dedicated to some projects small for My Hobbies in Programming
 
 
-DataBits Team
+**Abdurrahman Al-atsary** _**(Databits Team)**_
